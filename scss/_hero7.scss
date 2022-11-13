@@ -1,0 +1,113 @@
+.hero7 {
+    background-color: #F1EAEA;
+}
+.hero7-cards {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.hero7-title {
+  font-family: 'SVN-Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: #00171F;
+}
+.hero7-text {
+    font-family: 'SVN-Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #242B33;
+}
+.card-item-f {
+    border-radius: 40px;
+    background-color: #fff;
+    margin-top: 40px;
+.img-f {
+padding: 7px 10px;
+border-radius: 50px;
+}
+    .item-info-f {
+width: 100%;
+max-width: 320px;
+padding: 10px 15px;
+.hero7-link {
+   background: #00A7E7;
+border-radius: 28px;
+font-family: 'SVN-Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 16px;
+display: flex;
+align-items: flex-end;
+color: #FDFDFD;
+padding: 3px 6px;
+width: 100%;
+max-width: 100px;
+text-align: center;
+}
+.hero7-text {
+    font-family: 'SVN-Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #242B33;
+}
+.hero7-title {
+    font-family: 'SVN-Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: #00171F;
+margin-bottom: 6px;
+padding: 5px 8px;
+}
+    }
+ }  
+ .hero7-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .titr-f {
+font-family: 'SVN-Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+color: #000000;
+text-shadow: 1px 0 0 #000;
+        }
+        .hero7-title {
+            font-family: 'SVN-Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+display: flex;
+align-items: flex-end;
+text-transform: capitalize;
+color: #003459;
+        }
+       .hero7-link {
+        font-family: 'SVN-Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+color: #003459;
+border: 2px solid #003459;
+border-radius: 45px;
+padding: 10px 30px;
+margin-right: 25px;
+       } 
+    }

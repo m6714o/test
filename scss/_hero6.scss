@@ -1,0 +1,62 @@
+.hero6-info{
+    background: #FFB775;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero6-content{
+    max-width: 400px;
+    width: 100%;
+    margin-top: 10px;
+    margin: 0 auto;  
+}
+.hero6-h2{
+    font-family: 'SVN-Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 52px;
+    line-height: 68px;
+    color: #003459;
+    margin-bottom: 10px;
+}
+.hero6-h3{
+    font-family: 'SVN-Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #003459;
+    margin-bottom: 10px;
+}
+.hero6-p{
+    font-family: 'SVN-Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: #242B33;
+    padding: 15px 18px;
+    margin-bottom: 56px;
+}
+.hero6-a{
+    padding: 10px 20px;
+    background: #003459;
+    border-radius: 57px;
+    color: #fff;
+    font-family: 'SVN-Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+.hero6-b{
+    border: 1.5px solid #003459;
+    padding: 10px 20px;
+    border-radius: 57px;
+    color:#003459;
+    font-family: 'SVN-Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}

@@ -1,0 +1,51 @@
+.hero{
+    background-color: #FCEFD5;
+}
+.hero-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-h1{
+    font-weight: 800;
+    font-size: 60px;
+    color: #002A48;
+    margin-bottom: 4px;
+}
+.hero-h2{
+    font-weight: 700;
+    font-size: 46px;
+    color: #002A48;
+    margin-bottom: 24px;
+}
+.hero-p{
+    font-weight: 500;
+    font-size: 16px;
+    color: #242B33;
+    margin-bottom: 50px;
+}
+.buttons{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+.view{
+    color: #003459;     
+    border: 1.5px solid #003459;
+    border-radius: 57px;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 20px;
+}
+.explore{
+    background: #003459;
+    border-radius: 57px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 20px;
+}
+.icon{
+    margin-left: 10px;
+}
